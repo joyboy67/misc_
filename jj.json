@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "N",
+      "sources": [
+        "https://i.imgur.com/ZkWo087.png"
+      ],
+      "x": -469,
+      "y": -82
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
